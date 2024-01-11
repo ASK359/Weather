@@ -1,0 +1,49 @@
+body{
+			background-color: black;
+			text-align: center;
+		}
+		.con{
+			padding-top:3px;
+			background:linear-gradient(90deg,cyan,lightblue);
+			border:2px solid black;
+			padding-bottom:5px;
+			/*display:flex;*/
+			width:50vw;
+			/*flex-direction:column;*/
+			
+			margin-left: 20vw;
+			border-radius:15%;
+			padding: 3px;
+			
+		}
+		input{
+			width:50%;
+			padding:20px;
+			height:15px;
+			border-radius:15%; 
+
+		}
+		.WTEX{
+			 color:steelblue;
+			 font-family:Algerian;
+			
+		}
+		.f{
+			display:flex;
+			color:white;
+			justify-content: space-around;
+		}
+		.f>div{
+			padding:10px;
+			justify-items:auto;
+		}
+		#v1{
+			border:1px solid black;
+			background-color: white;
+			width:;
+
+		}
+
+
+
+		
